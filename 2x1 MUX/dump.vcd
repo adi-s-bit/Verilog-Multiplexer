@@ -1,0 +1,30 @@
+$date
+Thu Jul 29 16:12:13 2021
+$end
+$version
+Riviera-PRO Version 2020.04.130.7729
+$end
+$timescale
+10 ps
+$end
+
+$scope module mux2x1_tb $end
+$var wire 1 ! y $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$var reg 1 $ s $end
+$var parameter 32 % period [31:0] $end
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+1!
+1"
+0#
+0$
+b10100 %
+$end
+#2000
+1$
+0!
+#4000

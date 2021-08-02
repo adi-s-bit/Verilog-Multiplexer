@@ -1,0 +1,37 @@
+$date
+Thu Jul 29 16:24:15 2021
+$end
+$version
+Riviera-PRO Version 2020.04.130.7729
+$end
+$timescale
+10 ps
+$end
+
+$scope module half_adder_tb $end
+$var wire 1 ! sum $end
+$var wire 1 " carry $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$var parameter 32 % period [31:0] $end
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+0!
+0"
+0#
+0$
+b10100 %
+$end
+#2000
+1$
+1!
+#4000
+1#
+0$
+#6000
+1$
+1"
+0!
+#8000

@@ -1,0 +1,46 @@
+$date
+Thu Jul 29 15:56:05 2021
+$end
+$version
+Riviera-PRO Version 2020.04.130.7729
+$end
+$timescale
+1 ns
+$end
+
+$scope module top $end
+$var wire 1 ! out $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$var reg 1 $ c $end
+$var reg 1 % d $end
+$var reg 1 & s0 $end
+$var reg 1 ' s1 $end
+
+$scope task display $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+1!
+1"
+1#
+0$
+0%
+0&
+0'
+$end
+#40
+1&
+#60
+0&
+1'
+0!
+#80
+1&
+#100
+0&
+0'
+1!
